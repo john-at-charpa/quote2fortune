@@ -40,9 +40,11 @@ page pulled.
 Checking the total number of pages of quotes for: J R R Tolkien
 Found 103 pages of quotes. 
 Downloading page 11 of 103
+```
 
 (some time later)
 
+```
 Finished downloading and parsing; writing to the file: tolkien
 Creating fortune dat file
 
@@ -82,5 +84,4 @@ While it is likely that a great number of users have moved to using a UTF-8 loca
 that some may still use C, ISO-8859-XX, etc. Most of the fortunes on GoodReads are in English or European languages 
 that transliterate from UTF-8 without issue. However, when a quote cannot be transliterated (example: UTF-8 Arabic 
 -> ASCII) it will simply be skipped. Due to the nature of transliteration one should expect the best results to be
-found using by the UTF-8 version of the data.
-
+found by using the UTF-8 version of the data.
