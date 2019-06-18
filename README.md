@@ -78,9 +78,9 @@ the wise to the wise, and all courses may run ill.”
 
 ## A note on transliteration
 
-While it is likely that while a great number of users have moved to using a UTF-8 locale (xx_XX.UTF-8) I realise 
+While it is likely that a great number of users have moved to using a UTF-8 locale (xx_XX.UTF-8) I realise 
 that some may still use C, ISO-8859-XX, etc. Most of the fortunes on GoodReads are in English or European languages 
 that transliterate from UTF-8 without issue. However, when a quote cannot be transliterated (example: UTF-8 Arabic 
 -> ASCII) it will simply be skipped. Due to the nature of transliteration one should expect the best results to be
-found using the UTF-8 version of the data.
+found using by the UTF-8 version of the data.
 
