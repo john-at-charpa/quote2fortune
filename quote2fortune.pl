@@ -9,6 +9,7 @@
 # TODO
 # * other sites with quotes 
 # * better text formatting (w3m/lynx hard wrap at 72)
+# * some quotes appear mangled - source bad? parsing bad?
 
 use strict; 
 use warnings;
